@@ -1,22 +1,35 @@
 # 🏆 Achievements
 
-## Certifications
+## Challenge
 
-- ✅ Cisco Introduction to Cybersecurity
-- ⬜ Cisco Network Basics
+- ✅ Started the **100 Days to Security Analyst** challenge.
+
+---
 
 ## Labs
 
-- ✅ Packet Tracer Lab #1
-- ⬜ Linux Lab #1
+- ⬜ Cisco Packet Tracer - Basic Network Lab
+
+---
+
+## TryHackMe
+
+- ✅ Completed the **Network Fundamentals** section of the **Pre Security** path.
+
+---
+
+## Certifications
+
+- None yet.
+
+---
 
 ## Projects
 
-- ⬜ Home SOC
-- ⬜ AWS Architecture
+- None yet.
+
+---
 
 ## Career
 
-- ⬜ Resume updated
-- ⬜ LinkedIn updated
-- ⬜ First internship
+- ⬜ First Cybersecurity Internship

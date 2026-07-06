@@ -1,2 +1,5 @@
-Day 01 ⬜
-Day 02 ⬜
+# 📈 Progress
+
+| Day | Status |
+|-----|--------|
+| Day 01 | ✅ |
