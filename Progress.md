@@ -1,5 +1,6 @@
 # 📈 Progress
 
-| Day | Status |
-|-----|--------|
-| Day 01 | ✅ |
+
+| Day | Date | Status |
+|-----|------------|--------|
+| Day 01 | 2026-07-08 | ✅ Completed |
