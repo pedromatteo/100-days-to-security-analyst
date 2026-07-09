@@ -12,6 +12,7 @@
 - ✅ LAN Communication Simulation *(2026-07-07)*
 - ✅ Subnet Communication Test *(2026-07-07)*
 - ✅ ARP Table Analysis (`arp -a`) *(2026-07-07)*
+- ✅ OSI Model Packet Flow Analysis *(2026-07-08)*
 
 ---
 
@@ -29,7 +30,20 @@
 - ✅ ICMP & Ping
 - ✅ ARP Basics
 - ✅ Ethernet Frame Basics
+- ✅ IP Packet Fundamentals
+- ✅ OSI Model (Layers 1–3)
+- ✅ Encapsulation & Decapsulation
 - ✅ Default Gateway Concepts
+- ✅ Switch vs Router Fundamentals
+
+---
+
+## Documentation
+
+- ✅ Daily technical notes in English
+- ✅ Practical lab documentation
+- ✅ Network topology diagrams
+- ✅ Mermaid network flow diagrams
 
 ---
 
@@ -41,11 +55,11 @@
 
 ## Projects
 
-- 🚧 100 Days to Security Analyst (In Progress)
+- 🚧 100 Days to Security Analyst *(In Progress)*
 
 ---
 
-## Career
+## Career Milestones
 
 - ⬜ First IT Internship
 - ⬜ First Cybersecurity Internship
