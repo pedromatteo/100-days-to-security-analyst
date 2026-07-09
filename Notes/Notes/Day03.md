@@ -94,7 +94,7 @@ Next, the computer checks whether the destination belongs to the same subnet.
 
 Finally, the IP Packet is encapsulated inside an Ethernet Frame and transmitted through the physical medium.
 
-![Ping Encapsulation Flowchart]![alt text](../../assets/Day03/Encapsulation.png)
+![Ping Encapsulation Flowchart](../../assets/Day03/Encapsulation.png)
 
 ---
 
