@@ -43,9 +43,9 @@ Tests performed:
 
 ### Lab Images
 
-## Network Topology
+## Network Topology & Successful Ping
 
-![Network Topology](../assets/Day2/topology.png)
+![Network Topology](../assets/Day4/topology2.png)
 
 ---
 
@@ -55,7 +55,7 @@ Tests performed:
 
 ---
 
-## Router Configuration & Successful Ping
+## Router Configuration
 
 ![Router Configuration & Successful Ping](../assets/Day04/router-show-ip-interface-brief.png)
 
