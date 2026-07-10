@@ -43,13 +43,19 @@ Tests performed:
 
 ### Lab Images
 
+## Network Topology
+
 ![Network Topology](../assets/Day2/topology.png)
 
 ---
 
+## Routing Simulation
+
 ![Routing Simulation](../assets/Day04/simulation-routing.png)
 
 ---
+
+## Router Configuration & Successful Ping
 
 ![Router Configuration & Successful Ping](../assets/Day04/router-show-ip-interface-brief.png)
 
