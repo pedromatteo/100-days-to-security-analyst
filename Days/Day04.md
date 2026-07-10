@@ -45,7 +45,7 @@ Tests performed:
 
 ## Network Topology & Successful Ping
 
-![Network Topology](../assets/Day4/topology2.png)
+![Network Topology](../assets/Day04/topology2.png)
 
 ---
 
