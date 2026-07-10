@@ -13,6 +13,9 @@
 - ✅ Subnet Communication Test *(2026-07-07)*
 - ✅ ARP Table Analysis (`arp -a`) *(2026-07-07)*
 - ✅ OSI Model Packet Flow Analysis *(2026-07-08)*
+- ✅ Inter-Subnet Routing Lab *(2026-07-09)*
+- ✅ Router Configuration (Cisco ISR4331) *(2026-07-09)*
+- ✅ Default Gateway Communication *(2026-07-09)*
 
 ---
 
@@ -35,6 +38,11 @@
 - ✅ Encapsulation & Decapsulation
 - ✅ Default Gateway Concepts
 - ✅ Switch vs Router Fundamentals
+- ✅ Routing Fundamentals
+- ✅ Default Gateway Configuration
+- ✅ Next Hop Concepts
+- ✅ Inter-Subnet Communication
+- ✅ Basic Router Configuration (Cisco IOS)
 
 ---
 
