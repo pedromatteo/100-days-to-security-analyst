@@ -36,7 +36,8 @@ Screenshot:
 
 ## Topology & DNS Resolution
 
-![DNS Resolution](../Assets/Day06/dns-resolution.png)
+![DNS Resolution](../assets/Day06/dns-resolution.png)
+
 
 ---
 
