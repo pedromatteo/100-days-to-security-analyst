@@ -16,6 +16,8 @@
 - ✅ Inter-Subnet Routing Lab *(2026-07-09)*
 - ✅ Router Configuration (Cisco ISR4331) *(2026-07-09)*
 - ✅ Default Gateway Communication *(2026-07-09)*
+- ✅ Cisco Packet Tracer - DNS Server Configuration *(2026-07-11)*
+- ✅ DNS Name Resolution Lab *(2026-07-11)*
 
 ---
 
@@ -49,6 +51,11 @@
 - ✅ Port Fundamentals
 - ✅ Three-Way Handshake
 - ✅ TCP vs UDP
+- ✅ DNS Fundamentals
+- ✅ DNS Resolver Concepts
+- ✅ DNS Records (A, AAAA, CNAME, MX)
+- ✅ DNS Name Resolution
+- ✅ DNS Cache Basics
 
 
 ---

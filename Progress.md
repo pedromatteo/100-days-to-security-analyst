@@ -8,3 +8,4 @@
 | 03 | OSI Model & Encapsulation | 2026-07-08 | ✅ Completed |
 | 04 | Routing & Default Gateway | 2026-07-09 | ✅ Completed |
 | 05 | TCP & UDP Fundamentals | 2026-07-10 | ✅ Completed |
+| 06 | DNS Fundamentals | 2026-07-11 | ✅ Completed |
