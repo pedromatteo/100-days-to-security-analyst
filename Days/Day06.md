@@ -34,7 +34,11 @@ Lab activities:
 
 Screenshot:
 
-## Topology & DNS Resolution
+## Topology 
+
+![Network Topology](../assets/Day06/topology.png)
+
+## DNS Resolution
 
 ![DNS Resolution](../assets/Day06/dns-resolution.png)
 
