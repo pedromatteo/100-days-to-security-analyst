@@ -75,6 +75,5 @@ TCP prioritizes reliability by establishing a connection and retransmitting lost
 ## Status
 
 - [x] Study
-- [ ] Practical Lab
 - [x] English
 - [x] Documentation
