@@ -43,6 +43,13 @@
 - ✅ Next Hop Concepts
 - ✅ Inter-Subnet Communication
 - ✅ Basic Router Configuration (Cisco IOS)
+- ✅ TCP Fundamentals
+- ✅ UDP Fundamentals
+- ✅ Transport Layer Concepts
+- ✅ Port Fundamentals
+- ✅ Three-Way Handshake
+- ✅ TCP vs UDP
+
 
 ---
 

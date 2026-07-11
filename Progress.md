@@ -1,9 +1,10 @@
 # 📈 Progress
 
 
-| Day    | Date       | Status      |
-| ------ | ---------- | ----------- |
-| Day 01 | 2026-07-06 | ✅ Completed |
-| Day 02 | 2026-07-07 | ✅ Completed |
-| Day 03 | 2026-07-08 | ✅ Completed |
-| Day 04 | 2026-07-09 | ✅ Completed |
+| Day | Topic | Date | Status |
+|-----:|-----------------------------|------------|--------------|
+| 01 | Network Fundamentals | 2026-07-06 | ✅ Completed |
+| 02 | LAN Communication & ARP | 2026-07-07 | ✅ Completed |
+| 03 | OSI Model & Encapsulation | 2026-07-08 | ✅ Completed |
+| 04 | Routing & Default Gateway | 2026-07-09 | ✅ Completed |
+| 05 | TCP & UDP Fundamentals | 2026-07-10 | ✅ Completed |
