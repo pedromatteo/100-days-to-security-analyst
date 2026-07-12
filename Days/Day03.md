@@ -1,4 +1,4 @@
-# Day 03
+# Day 03 — OSI Model & Encapsulation
 
 ## Objectives
 

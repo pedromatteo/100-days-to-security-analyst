@@ -18,6 +18,8 @@
 - ✅ Default Gateway Communication *(2026-07-09)*
 - ✅ Cisco Packet Tracer - DNS Server Configuration *(2026-07-11)*
 - ✅ DNS Name Resolution Lab *(2026-07-11)*
+- ✅ Cisco Packet Tracer - HTTP Server Configuration *(2026-07-12)*
+- ✅ HTTP & DNS Integration Lab *(2026-07-12)*
 
 ---
 
@@ -56,6 +58,12 @@
 - ✅ DNS Records (A, AAAA, CNAME, MX)
 - ✅ DNS Name Resolution
 - ✅ DNS Cache Basics
+- ✅ HTTP Fundamentals
+- ✅ HTTPS Fundamentals
+- ✅ TLS Basics
+- ✅ HTTP Methods (GET, POST, PUT, DELETE)
+- ✅ HTTP Status Codes
+- ✅ Client-Server Communication
 
 
 ---

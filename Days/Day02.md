@@ -1,4 +1,4 @@
-# Day 02
+# Day 02 — LAN Communication & ARP
 
 ## Objectives
 
