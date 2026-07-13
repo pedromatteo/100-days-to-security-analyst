@@ -20,6 +20,10 @@
 - ✅ DNS Name Resolution Lab *(2026-07-11)*
 - ✅ Cisco Packet Tracer - HTTP Server Configuration *(2026-07-12)*
 - ✅ HTTP & DNS Integration Lab *(2026-07-12)*
+- ✅ Wireshark Packet Capture Lab *(2026-07-13)*
+- ✅ HTTP Traffic Analysis *(2026-07-13)*
+- ✅ DNS Resolution Analysis *(2026-07-13)*
+- ✅ TCP Three-Way Handshake Analysis *(2026-07-13)*
 
 ---
 
@@ -64,7 +68,12 @@
 - ✅ HTTP Methods (GET, POST, PUT, DELETE)
 - ✅ HTTP Status Codes
 - ✅ Client-Server Communication
-
+- ✅ Wireshark Fundamentals
+- ✅ Packet Analysis
+- ✅ PCAP Analysis
+- ✅ Display Filters
+- ✅ TCP Flags
+- ✅ Traffic Inspection
 
 ---
 
