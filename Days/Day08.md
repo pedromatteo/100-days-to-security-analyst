@@ -33,10 +33,12 @@ Activities:
 Screenshot:
 
 ## Wireshark Overview
+Captured HTTP, TCP and TLS traffic during a web request.
 
 ![Wireshark Overview](../assets/Day08/wireshark-overview.png)
 
 ## Wireshark Packet Analysis
+Inspection of an HTTP GET request, showing the encapsulation layers (Ethernet II → IPv6 → TCP → HTTP).
 
 ![Wireshark Packet Analysis](../assets/Day08/http-packet-analysis.png)
 
