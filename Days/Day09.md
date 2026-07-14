@@ -44,6 +44,12 @@ Practiced:
 - Analyzed TCP flags (SYN, ACK, PSH, FIN).
 - Interpreted an HTTP GET request and a 200 OK response.
 
+## Screenshot
+
+Linux terminal practice (filesystem navigation and file management).
+
+![Linux Terminal](../assets/Day09/linux-filesystem-lab.png)
+
 ## Reflection
 
 Today reinforced the Linux commands that are used daily by security analysts. File manipulation and navigation became much more natural after practicing directly in the terminal.
