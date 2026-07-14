@@ -11,4 +11,4 @@
 | 06 | DNS Fundamentals | 2026-07-11 | ✅ Completed |
 | 07 | HTTP & HTTPS Fundamentals | 2026-07-12 | ✅ Completed |
 | 08 | Wireshark Fundamentals | 2026-07-13 | ✅ Completed |
-| 08 | Linux Fundamentals | 2026-07-14 | ✅ Completed |
+| 09 | Linux Fundamentals | 2026-07-14 | ✅ Completed |
