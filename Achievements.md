@@ -24,6 +24,7 @@
 - ✅ HTTP Traffic Analysis *(2026-07-13)*
 - ✅ DNS Resolution Analysis *(2026-07-13)*
 - ✅ TCP Three-Way Handshake Analysis *(2026-07-13)*
+- ✅ Wireshark HTTP Investigation *(2026-07-14)*
 
 ---
 
@@ -74,6 +75,10 @@
 - ✅ Display Filters
 - ✅ TCP Flags
 - ✅ Traffic Inspection
+- ✅ Completed Linux filesystem fundamentals.
+- ✅ Practiced essential terminal commands.
+- ✅ Learned file manipulation and directory navigation.
+- ✅ Understood absolute and relative paths.
 
 ---
 
