@@ -12,4 +12,4 @@
 | 07 | HTTP & HTTPS Fundamentals | 2026-07-12 | ✅ Completed |
 | 08 | Wireshark Fundamentals | 2026-07-13 | ✅ Completed |
 | 09 | Linux Fundamentals | 2026-07-14 | ✅ Completed |
-| 09 | Burp Suite Fundamentals | 2026-07-14 | ✅ Completed |
+| 10 | Burp Suite Fundamentals | 2026-07-15 | ✅ Completed |
