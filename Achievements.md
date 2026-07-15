@@ -25,6 +25,9 @@
 - ✅ DNS Resolution Analysis *(2026-07-13)*
 - ✅ TCP Three-Way Handshake Analysis *(2026-07-13)*
 - ✅ Wireshark HTTP Investigation *(2026-07-14)*
+- ✅ Burp Suite Proxy Lab *(2026-07-15)*
+- ✅ HTTP Request Interception *(2026-07-15)*
+- ✅ Local HTTP Server Test *(2026-07-15)*
 
 ---
 
@@ -79,7 +82,12 @@
 - ✅ Practiced essential terminal commands.
 - ✅ Learned file manipulation and directory navigation.
 - ✅ Understood absolute and relative paths.
-
+- ✅ TCP Flag Analysis (SYN, ACK, PSH, FIN)
+- ✅ HTTP Request & Response Analysis
+- ✅ Burp Suite Fundamentals
+- ✅ HTTP Request Analysis
+- ✅ HTTP Response Analysis
+- ✅ Intercepting Proxy Concepts
 ---
 
 ## Documentation
