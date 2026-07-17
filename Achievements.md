@@ -28,6 +28,10 @@
 - ✅ Burp Suite Proxy Lab *(2026-07-15)*
 - ✅ HTTP Request Interception *(2026-07-15)*
 - ✅ Local HTTP Server Test *(2026-07-15)*
+- ✅ HTML Login Form Lab *(2026-07-17)*
+- ✅ Python HTTP Server Development *(2026-07-17)*
+- ✅ HTTP POST Request Interception *(2026-07-17)*
+- ✅ HTTP Request Manipulation with Burp Suite *(2026-07-17)*
 
 ---
 
@@ -88,6 +92,14 @@
 - ✅ HTTP Request Analysis
 - ✅ HTTP Response Analysis
 - ✅ Intercepting Proxy Concepts
+- ✅ HTML Form Fundamentals
+- ✅ HTTP POST Request Analysis
+- ✅ Python HTTP Server Development
+- ✅ HTTP Request Body Parsing
+- ✅ Request Parameter Manipulation
+- ✅ Client-side Input Validation Concepts
+- ✅ Server-side Trust Model
+
 ---
 
 ## Documentation
@@ -96,9 +108,6 @@
 - ✅ Practical lab documentation
 - ✅ Network topology diagrams
 - ✅ Mermaid network flow diagrams
-
----
-
 ## Certifications
 
 *No certifications yet.*
