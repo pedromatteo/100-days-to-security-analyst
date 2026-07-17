@@ -13,3 +13,6 @@
 | 08 | Wireshark Fundamentals | 2026-07-13 | ✅ Completed |
 | 09 | Linux Fundamentals | 2026-07-14 | ✅ Completed |
 | 10 | Burp Suite Fundamentals | 2026-07-15 | ✅ Completed |
+| 11 | HTTP Forms & Request Manipulation | 2026-07-17 | ✅ Completed |
+
+

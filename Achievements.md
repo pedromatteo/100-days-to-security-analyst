@@ -108,6 +108,7 @@
 - ✅ Practical lab documentation
 - ✅ Network topology diagrams
 - ✅ Mermaid network flow diagrams
+
 ## Certifications
 
 *No certifications yet.*
