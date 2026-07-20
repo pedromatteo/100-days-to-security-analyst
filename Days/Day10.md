@@ -26,7 +26,7 @@
 - Forwarded requests to the server.
 - Tested a local HTTP server using Python.
 
-## Screenshot
+Screenshot
 
 ### Proxy Overview 
 
@@ -56,3 +56,14 @@ Inspection of an intercepted HTTP GET request, including request line and HTTP h
 ## Reflection
 
 Today I learned how Burp Suite sits between the browser and the server, allowing HTTP requests and responses to be inspected and modified before they reach their destination. It became much clearer how web pentesters analyze web applications.
+
+## Time
+
+2+ hours
+
+## Status
+
+- [x] Theory
+- [x] Practical Lab
+- [x] English
+- [x] Documentation

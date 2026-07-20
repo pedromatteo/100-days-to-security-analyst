@@ -32,6 +32,11 @@
 - ✅ Python HTTP Server Development *(2026-07-17)*
 - ✅ HTTP POST Request Interception *(2026-07-17)*
 - ✅ HTTP Request Manipulation with Burp Suite *(2026-07-17)*
+- ✅ Built the initial architecture of a custom Python HTTP server *(2026-07-20)*
+- ✅ Implemented HTTP GET request handling *(2026-07-20)*
+- ✅ Understood HTTP response generation *(2026-07-20)*
+- ✅ Learned Python class inheritance basics *(2026-07-20)*
+- ✅ Implemented HTML file serving with Python *(2026-07-20)*
 
 ---
 
@@ -99,6 +104,11 @@
 - ✅ Request Parameter Manipulation
 - ✅ Client-side Input Validation Concepts
 - ✅ Server-side Trust Model
+- ✅ Python HTTP Server Fundamentals
+- ✅ Python Class Inheritance Basics
+- ✅ HTTP Response Construction
+- ✅ Python File Handling (`with open`)
+- ✅ HTTP Header Generation
 
 ---
 

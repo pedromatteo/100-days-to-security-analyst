@@ -116,3 +116,16 @@ Forwarded the request and confirmed that the server received the modified values
 - Request Interception
 - Request Manipulation
 - Python HTTP Server
+
+## Time
+
+2+ hours
+
+## Status
+
+- [x] Theory
+- [x] Practical Lab
+- [x] English
+- [x] Documentation
+
+---

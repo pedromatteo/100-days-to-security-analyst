@@ -44,7 +44,9 @@ Practiced:
 - Analyzed TCP flags (SYN, ACK, PSH, FIN).
 - Interpreted an HTTP GET request and a 200 OK response.
 
-## Screenshot
+Screenshot
+
+## Linux Terminal
 
 Linux terminal practice (filesystem navigation and file management).
 
